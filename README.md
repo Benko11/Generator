@@ -4,6 +4,7 @@ Full documentation is in the change of development. Until then, here's some prel
 
 ## Usage
 To work with this library, all you need to do is write this code:
+
 ``
 $obj = new RandomString();
 ``
