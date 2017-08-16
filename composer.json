@@ -1,0 +1,24 @@
+{
+    "name": "benko/random-string",
+    "type": "library",
+    "description": "Highly configurable generator of random strings",
+    "keywords": ["random","string","strings"],
+    "homepage": "https://github.com/Benko11/Random-String",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Benjamin Dubovecky (Bergstrom)",
+            "email": "benko.dubovecky@gmail.com",
+            "homepage": "https://benkoweb.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    }
+}

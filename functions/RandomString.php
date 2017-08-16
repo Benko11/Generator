@@ -80,7 +80,7 @@
 			$output = '';
 
 			for ($i = 1;$i <= $length;$i++) {
-				$output .= $characters[rand(0, count($characters) - 1)];
+				$output .= $characters[random_int(0, count($characters) - 1)];
 			}
 
 			return $output;

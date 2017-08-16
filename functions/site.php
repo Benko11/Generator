@@ -4,5 +4,5 @@
 		require_once $class_name.'.php';
 	});
 
-	$obj = new RandomGenerator();
-	echo $obj->numbers(35);
+	$obj = new RandomString();
+	echo $obj->numberString(20);
