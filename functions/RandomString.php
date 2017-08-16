@@ -96,7 +96,7 @@
 			return $output;
 		}
 
-		public function mixedString($length) {
+		public function numberString($length) {
 			$rules = [0,1,2];
 			$output = self::output($rules, $length);
 
