@@ -4,9 +4,9 @@ Full documentation is in the change of development. Until then, here's some prel
 
 ## Usage
 To work with this library, all you need to do is write this code:
-`
+``
 $obj = new RandomString();
-`
+``
 
 Now you're set to go. To generate a random string, there are several methods available:
 `string()` - generates a string using letters (both lowercase and uppercase)
