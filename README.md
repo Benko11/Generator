@@ -1,1 +1,3 @@
 # Generator
+
+Documentation is planned. Maybe I should've created a different branch such as 'dev', but whatever ...
