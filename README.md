@@ -21,7 +21,7 @@ Now you're set to go. To generate a random string, there are several methods ava
 
 `numbers()` - uses numbers only
 
-`punctuaton()` - uses only predefined punctuation
+`punctuation()` - uses only predefined punctuation
 
 `anyString()` - uses all the characters available
 
