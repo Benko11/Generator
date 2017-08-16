@@ -1,5 +1,5 @@
 <?php
-	interface RandomGeneratorInterface {
+	interface RandomStringInterface {
 		public function __construct();
 
 		// public function generateOutput($characters);

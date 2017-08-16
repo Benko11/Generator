@@ -1,5 +1,5 @@
 <?php
-	class RandomGenerator implements RandomGeneratorInterface  {
+	class RandomString implements RandomStringInterface  {
 		protected $characters = array(); // the list of characters that the string will be generated from
 		public $group = array();		 // the list of character groups
 
