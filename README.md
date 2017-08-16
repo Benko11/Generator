@@ -1,6 +1,6 @@
 # Generator
 
-Full documentation is in the change of development. Until then, here's some preliminary info.
+Full documentation is in development. Until then, here's some preliminary info.
 
 ## Usage
 To work with this library, all you need to do is write this code (after downloading it, of course):
