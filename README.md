@@ -18,6 +18,15 @@ Now you're set to go. To generate a random string, there are several methods ava
 `punctuaton()` - uses only predefined punctuation
 `anyString()` - uses all the characters available
 
+For example,
+
+`
+$obj = new RandomString();
+$obj->string(10); // generates a random string of 10 letters (e.g. MsrhRvFUsJ)
+$obj->numberString(20); // 20-letter-string consisting of letters and numbers (e.g. uYN7UPEHU7lk9zvpBnAc)
+
+`
+
 That wraps it up for now. There are more features coming, including:
 - creating a Composer package
 - being able to generate random strings from your custom input
