@@ -1,5 +1,5 @@
 <?php
-	class Generator {
+	class RandomGenerator {
 		protected $characters;
 		private $lowercaseLetters; // 0
 		private $uppercaseLetters; // 1
@@ -21,4 +21,4 @@
 		}
 	}
 
-	print_r((new Generator)->retrieveCharacters());
+	print_r((new RandomGenerator)->retrieveCharacters());
