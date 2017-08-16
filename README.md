@@ -9,13 +9,20 @@ To work with this library, all you need to do is write this code:
 $obj = new RandomString();
 ``
 
-Now you're set to go. To generate a random string, there are several methods available:\n
+Now you're set to go. To generate a random string, there are several methods available:
+
 `string()` - generates a string using letters (both lowercase and uppercase)
+
 `lowString()` - uses only lowercase letters
+
 `upString()` - uses only uppercase letters
+
 `numberString()` - uses all letters and numbers
+
 `numbers()` - uses numbers only
+
 `punctuaton()` - uses only predefined punctuation
+
 `anyString()` - uses all the characters available
 
 For example,
